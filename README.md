@@ -21,6 +21,7 @@ This project was chosen because it challenges the one doing the project to ask m
 ## Files
 1. StudentsPerformance.ipynb - this contains all the context from the Jupyter Notebook on StudentsPerformance which inclde the input and output of computation.
 2. StudentsPerformance pdf - this contains the questions asked and the code written to solve the questions.
+3. Code.html -it is the code used to structure the content of the project.
 
 
 
