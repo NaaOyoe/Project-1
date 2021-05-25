@@ -9,7 +9,7 @@ This dataset also contains their 'race/ethnicity' , 'parental level of education
 ## Installation
 1. Open a command or terminal window
 2. cd into the root directory where setup.py is located
-3. Enter:python < setup.py install
+3. Enter:python setup.py install
 
 
 
