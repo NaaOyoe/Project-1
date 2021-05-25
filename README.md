@@ -5,19 +5,23 @@ This is a dataset that shows the scores of students  in some subjects. The subje
 This dataset also contains their 'race/ethnicity' , 'parental level of education' , 'lunch' and 'test preparation course'
 
 
+
 ## Installation
-< Open a command or terminal window
-< cd into the root directory where setup.py is located
-Enter:python < setup.py install
+1. Open a command or terminal window
+2. cd into the root directory where setup.py is located
+3. Enter:python < setup.py install
+
 
 
 ## Motivation
 This pjoect was chosen because it challenges the one doing the project to ask more questions and to find a solution of solving them.
 
 
+
 ## Files
 1. StudentsPerformance.ipynb - this contains all the context from the Jupyter Notebook on StudentsPerformance which inclde the input and output of computation.
 2. StudentsPerformance pdf - this contains the questions asked and the code written to solve the questions.
+
 
 
 ## Summary
