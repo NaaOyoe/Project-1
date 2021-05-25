@@ -14,7 +14,7 @@ This dataset also contains their 'race/ethnicity' , 'parental level of education
 
 
 ## Motivation
-This pjoect was chosen because it challenges the one doing the project to ask more questions and to find a solution of solving them.
+This project was chosen because it challenges the one doing the project to ask more questions and to find  solutions of solving them.
 
 
 
